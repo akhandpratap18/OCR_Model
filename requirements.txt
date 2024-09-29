@@ -1,0 +1,7 @@
+gradio
+transformers
+Pillow
+requests
+torch
+tensorflow
+tf-keras
