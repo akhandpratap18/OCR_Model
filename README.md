@@ -1,14 +1,4 @@
----
-title: OCR Model
-emoji: 🦀
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: false
-short_description: This Model helps to extract text from inputed images.
----
+
 
 # OCR Web Application
 
